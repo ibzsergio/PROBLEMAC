@@ -10,6 +10,7 @@ int main ()
 	pal=c-con;
 	printf("\n\nEL NUMERO DE CONEJOS ES: %d",con);
 	printf("\n\nEL NUMERO DE PALOMAS ES: %d",pal);
+	printf("CAMBIOS APLICADOS EXITOSAMENTE");
 	return 0;
 	
 }
