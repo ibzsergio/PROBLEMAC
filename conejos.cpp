@@ -11,6 +11,7 @@ int main ()
 	printf("\n\nEL NUMERO DE CONEJOS ES: %d",con);
 	printf("\n\nEL NUMERO DE PALOMAS ES: %d",pal);
 	printf("CAMBIOS APLICADOS EXITOSAMENTE");
+	printf("SEFGUNDO CAMBIO AL PROGRAMA ESPERANDO Y SE ACTUALICEN EN EL ESCRITORIO");
 	return 0;
 	
 }
